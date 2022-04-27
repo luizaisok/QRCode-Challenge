@@ -25,7 +25,6 @@ main {
 .text {
     margin: auto;
     width: 260px;
-    padding: 15px 0 15px 0;
     line-height: 20px;
     font-family: 'Montserrat', sans-serif;
 }
